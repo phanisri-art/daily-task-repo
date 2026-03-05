@@ -18,4 +18,4 @@ A simple Python project to manage daily tasks. Users can add, view, and delete t
 3. Use the menu to add, view, or remove tasks.
 
 ## Output
-See Daily task output.png for example of program output.
+See  daily task output.png for example of program output.
